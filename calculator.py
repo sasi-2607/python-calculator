@@ -1,6 +1,6 @@
 
-num1 = float(input("Enter first number: "))
-num2 = float(input("Enter second number: "))
+num1 = float(input())
+num2 = float(input())
 
 print("1. Addition")
 print("2. Subtraction")
